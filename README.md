@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven Tolentino</h1>
-<h3 align="center">A passionate to became a IT SPECIALIST someday as an ACT student now, and maybe one day continue in BSIS 3 LOOBIN</h3>
+<h3 align="center">Future IT Specialist | Passionate about technology, innovation, and problem-solving. Dedicated to continuously learning, developing technical skills, and creating solutions that make a positive impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steven120411&label=Profile%20views&color=0e75b6&style=flat" alt="steven120411" /> </p>
 
